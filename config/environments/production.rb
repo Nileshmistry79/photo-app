@@ -12,6 +12,10 @@ Rails.application.configure do
   
   config.action_mailer.delivery_method = :smtp
   config.action_mailer.default_url_options = { :host => 'nilesh-photo-app.herokuapp.com', :protocol => 'https'}
+  
+  
+  eedc66c
+  
 
   
 
